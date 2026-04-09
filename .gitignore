@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# # Data and models
+# *.h5
+# *.pkl
+# *.pth
+# *.model
+# data/
+# models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+.cache/
